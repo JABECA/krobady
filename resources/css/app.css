@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: white;
+}
+
+footer {
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+#nos{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url("images/header_background-2.jpg") center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+}
+
+#jacket{
+    padding-left: 5%;
+    padding-top: 15%;
+    padding-right:  60%;
+    padding-bottom: 8%;
+}
+         

@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{background:#fff}footer{width:100%;left:0;bottom:0;background-color:#00008b;color:#fff;text-align:center}#nos{background:linear-gradient(#0000004d,#00000080),url(images/header_background-2.jpg) center center no-repeat;background-size:cover;background-attachment:fixed;text-align:left}#jacket{padding:15% 60% 8% 5%}
