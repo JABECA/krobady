@@ -16,8 +16,7 @@ footer {
 }
 
 
-#projects2 {
-/*    background-image: url('header-background-gallery.png');*/
+#projects2 {background-image: url("images/header-background-gallery.png");
     background-size: cover;
     background-attachment: fixed;
     text-align: left;;
@@ -99,8 +98,7 @@ width:110%;
 
 #treinta{font-size: 7.0em;}     
 
-#nos{
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5));
+#nos{background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url("images/header_background-2.jpg") center center no-repeat;
     background-size: cover;
     background-attachment: fixed;
     text-align: left;
@@ -468,7 +466,7 @@ select {
     -ms-appearance: none;
     -o-appearance: none;
     appearance: none;
-/*    background-image: url('/images/down-arrow.png');*/
+    background-image: url('../images/down-arrow.png');
     background-position: 96% 50%;
     background-repeat: no-repeat;
     outline: none;
@@ -921,7 +919,7 @@ input[type='checkbox'] {
 /*********************/
 .header {
     background-repeat: no-repeat;
-/*    background: url("/images/background-header.png") no-repeat center center;*/
+    background: url(../images/background-header.png) no-repeat center center;
     background-size: cover;
     height: 100%;
 }
@@ -1027,7 +1025,7 @@ input[type='checkbox'] {
     position: absolute;
     width: 6rem;
     height: 6rem;
-/*    background: url('/images/hexagon-green.svg') center center no-repeat;*/
+    background: url('images/hexagon-green.svg') center center no-repeat;
     background-size: 6rem 6rem;
 }
 
@@ -1706,13 +1704,13 @@ input[type='checkbox'] {
     left: 0;
     width: 1.75rem;
     height: 1.75rem;
-/*    background: url('/images/hexagon-green.svg') center center no-repeat;*/
+    background: url('images/hexagon-green.svg') center center no-repeat;
     background-size: 1.75rem 1.75rem;
     transition: all 0.2s ease;
 }
 
 .basic-2 .fa-stack:hover .hexagon {
-/*    background: url('/images/hexagon-white.svg') center center no-repeat;*/
+    background: url('images/hexagon-white.svg') center center no-repeat;
     background-size: 1.75rem 1.75rem;
 }
 
@@ -1847,13 +1845,13 @@ input[type='checkbox'] {
     position: absolute;
     width: 3.25rem;
     height: 3.25rem;
-/*    background: url('/images/hexagon-white.svg') center center no-repeat;*/
+    background: url('images/hexagon-white.svg') center center no-repeat;
     background-size: 3.25rem 3.25rem;
     transition: all 0.2s ease;
 }
 
 .form-2 .fa-stack:hover .hexagon {
-/*    background: url('/images/hexagon-green.svg') center center no-repeat;*/
+    background: url('images/hexagon-green.svg') center center no-repeat;
     background-size: 3.25rem 3.25rem;
 }
 
@@ -1922,7 +1920,7 @@ a.back-to-top {
     width: 2.625rem;
     height: 2.625rem;
     border-radius: 1.875rem;
-/*    background: #638ac3 url("/images/up-arrow.png") no-repeat center 47%;*/
+    background: #638ac3 url("images/up-arrow.png") no-repeat center 47%;
     background-size: 1.125rem 1.125rem;
     text-indent: -9999px;
 }
@@ -2210,13 +2208,13 @@ a:hover.back-to-top {
         width: 1.625rem;
         height: 1.625rem;
         position: absolute;
-/*        background: url('/images/hexagon-green.svg') center center no-repeat;*/
+        background: url('images/hexagon-green.svg') center center no-repeat;
         background-size: 1.625rem 1.625rem;
         transition: all 0.2s ease;
     }
 
     .navbar-custom .fa-stack:hover .hexagon {
-/*        background: url('/images/hexagon-white.svg') center center no-repeat;*/
+        background: url('images/hexagon-white.svg') center center no-repeat;
         background-size: 1.625rem 1.625rem;
     }
     
@@ -2606,4 +2604,19 @@ a:hover.back-to-top {
     }
     /* end of navigation */
 }
-   
+
+
+#nos{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url("images/header_background-2.jpg") center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+}
+
+#jacket{
+    padding-left: 5%;
+    padding-top: 15%;
+    padding-right:  60%;
+    padding-bottom: 8%;
+}
+         

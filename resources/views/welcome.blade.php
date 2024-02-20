@@ -71,7 +71,7 @@
         </section>
 
 
-            <section id="fourthsection" style="background-color:white">
+        <section id="fourthsection" style="background-color:white">
             
             <h2 style="text-align: center;">{{ trans('welcome.textoSeccion3')}}<br/><br/><br/><br/></h2>
                 <img class="img-fluido" align="middle" alt="Creation_Validation" src="images/Gif_Systeme.gif" width=90%>
@@ -88,9 +88,9 @@
 
 
 
-        <section id="sevensection">
+        <section id="sevensection" >
             <div style="background-color:transparent">
-                <div id="nos" class="basic-2">  
+                <div id="nos" class="basic-2" style="background-image: url('/images/header_background-2.jpg');">  
                 
                     <div class="container">
                         <div id="jacket">
@@ -104,53 +104,7 @@
 
 
         <section >   
-<!-- 
-            <div class="slider">
-                <div>
-                    <img data-u="image" src="images/1 (1).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (2).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (3).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (4).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (5).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (6).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (7).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (8).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (9).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (10).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (11).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (12).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (13).png" />
-                </div>
-                <div>
-                    <img data-u="image" src="images/1 (14).png" />
-                </div>
 
-            </div>
-             -->
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -213,71 +167,69 @@
 
 
         <!-- Services -->
-    <section id="tensection"style="background-color: #C8C6C2">
-        <h1 style="text-align: center; color: dimgray"><br>NOS SERVICES</h1>
-                <h6 style="text-align: center; color: gray"><br>KROBADY 3D STUDIO accompagne 
-                    les entreprises pour franchir le pas du changement de paradigme (le numérique). Bien que ce changement ne soit pas facile, 
-                    être accompagné d’experts, rassure.<br></h6>
-        
-        <!-- Creation - Validation -->
-        <h3 style="text-align: center; color: dimgrey"><br>CREATION 3D<br><br></h3>
-        
-        <img class="img-fluido" align="middle" width= "100%" alt="Creation_Validation" src="images/Creation_Validation.png">
-        
-        <h5 style="text-align: center; color: gray"><br>Les patronnages sont réalisés dans un monde virtuel avec des avatars hyperréalistes (toiles numeriques) qui 
-                    vous aideront à valider vos modèles bien avant qu’il ne soit coupés.<br>
-                    Partagez instantanément vos nouvelles conceptions avec toute votre équipe de création, ajustez-les, modifiez-les, 
-                    changez-les, sans gaspiller un seul centimètre de matière première,<br>
-                    faites gagner du temps à vos collaborateurs tout en respectent l'environnement.<br>
-                    DXF-AAMA, DXF-ASTM, DXF, PDF, MDL (LECTRA), Gerber et Optitex.<br></h5>
-    </section>
+        <section id="tensection"style="background-color: #C8C6C2">
+            <h1 style="text-align: center; color: dimgray"><br>NOS SERVICES</h1>
+                    <h6 style="text-align: center; color: gray"><br>KROBADY 3D STUDIO accompagne 
+                        les entreprises pour franchir le pas du changement de paradigme (le numérique). Bien que ce changement ne soit pas facile, 
+                        être accompagné d’experts, rassure.<br></h6>
+            
+            <!-- Creation - Validation -->
+            <h3 style="text-align: center; color: dimgrey"><br>CREATION 3D<br><br></h3>
+            
+            <img class="img-fluido" align="middle" width= "100%" alt="Creation_Validation" src="images/Creation_Validation.png">
+            
+            <h5 style="text-align: center; color: gray"><br>Les patronnages sont réalisés dans un monde virtuel avec des avatars hyperréalistes (toiles numeriques) qui 
+                        vous aideront à valider vos modèles bien avant qu’il ne soit coupés.<br>
+                        Partagez instantanément vos nouvelles conceptions avec toute votre équipe de création, ajustez-les, modifiez-les, 
+                        changez-les, sans gaspiller un seul centimètre de matière première,<br>
+                        faites gagner du temps à vos collaborateurs tout en respectent l'environnement.<br>
+                        DXF-AAMA, DXF-ASTM, DXF, PDF, MDL (LECTRA), Gerber et Optitex.<br></h5>
+        </section>
     
 
-    <section id="elevensection"style="background-color: #000000">
-        <h3 style="text-align: center; color: dimgrey"><br><br>ESSAYAGE VIRTUEL<br><br></h3>
-        <img class="img-fluido" align="middle" src="images/lingerie.png" alt="" width="100%">
-        <h5 style="text-align: center; color: gray"><br>Profitez d'une vision 360° pour mieux vous projeter dans le  look, le « fit », le confort de chaque style et aux mesures de 
-                    votre mannequin,<br>
-                    Tout un éventail de poses naturelles pour ameliorer votre essayage virtuel.<br>
-                    PNG, JPG et TIFF à très haute resolution.<br><br></h5>
-    </section>
+        <section id="elevensection"style="background-color: #000000">
+            <h3 style="text-align: center; color: dimgrey"><br><br>ESSAYAGE VIRTUEL<br><br></h3>
+            <img class="img-fluido" align="middle" src="images/lingerie.png" alt="" width="100%">
+            <h5 style="text-align: center; color: gray"><br>Profitez d'une vision 360° pour mieux vous projeter dans le  look, le « fit », le confort de chaque style et aux mesures de 
+                        votre mannequin,<br>
+                        Tout un éventail de poses naturelles pour ameliorer votre essayage virtuel.<br>
+                        PNG, JPG et TIFF à très haute resolution.<br><br></h5>
+        </section>
 
 
-      <!-- Bases -->
-    <section id="twelfth"style="background-color: #C8C6C2">
-        <h3 style="text-align: center; color: dimgrey"><br><br>BASES & FIT's SPECIFIQUES<br><br></h3>
-        <img class="img-fluido" align="middle" src="images/Bases.png" width="100%" alt="">
-    </section>
+          <!-- Bases -->
+        <section id="twelfth"style="background-color: #C8C6C2">
+            <h3 style="text-align: center; color: dimgrey"><br><br>BASES & FIT's SPECIFIQUES<br><br></h3>
+            <img class="img-fluido" align="middle" src="images/Bases.png" width="100%" alt="">
+        </section>
             
-    <section id="Thirteenthsection"style="background-color: #000000">
-        <h3 style="text-align: center; color: dimgrey"><br><br>CONCEPTION D'AVATARS<br><br></h3>
-        <img class="img-fluido" align="middle" src="images/Conception_Avatars.png" alt="" width="100%">
-        <h5 style="text-align: center; color: gray"><br>Des avatars hyper-réalistes personnalisés peuvent vous garantir l’ajustement que vous recherchez.<br>
-                    <br><br></h5>
-    </section>
-    <!-- end of Section 10 -->
+        <div id="Thirteenthsection" style="background-color: #000000">
+            <h3 style="text-align: center; color: dimgrey"><br><br>CONCEPTION D'AVATARS<br><br></h3>
+            <img class="img-fluido" align="middle" src="images/Conception_Avatars.png" alt="" width="100%" />
+            <h5 style="text-align: center; color: gray; "><br>
+                Des avatars hyper-réalistes personnalisés peuvent vous garantir l’ajustement que vous recherchez.<br><br><br>
+            </h5>
+        </div>
+        <!-- end of Section 10 -->
         
 
-            <!-- Press -->
-        <div style="background-color: black;" class="press">
+        <div style="background-color: black;">
             <div class="container" style="padding-top: 5%; background-color: black; padding-bottom: 10%;">
-                <h2 style="text-align: center; padding-bottom:5%;">PRESS</h2>
-                <h2 style="text-align: center; padding-bottom:5%;">Krobady par "Mode IN Textile by IFTH"</h2>
-                <div class="row">
+                <div class="row align-items-start">
+                     <h2 style="text-align: center; ">PRESS</h2>
+                    <h2 style="text-align: center; ">Krobady par "Mode IN Textile by IFTH"</h2>
+                </div>
+                <div class="row align-items-start">
                     <div class="col-lg-6">
-                        <div class="text-container">
-                            <div class="section-title"> </div>
-                                <img class="img-fluido" alt="Starup Krobady" src="images/starup.PNG">
-                            </div> <!-- end of text-container -->
-                        </div> <!-- end of col -->
-                    <div class="col-lg-6    "> 
-                        <p><br><br><br><br><br>L’arrivée de la 3D dans les jeux vidéo remonte au début des années 1980. Encore balbutiante, la 3D offre alors déjà un univers interactif et immersif. Rapidement, les technologies de modélisation en 3D  vont permettre de rendre la texture des surfaces de plus en plus réalistes. Mais ce sont les années 2000 qui verront enfin la 3D connaître un “boom spectaculaire” avec l’avènement des nouvelles cartes graphiques ultra-performantes.</p>
-                        <a href="https://www.modeintextile.fr/start-story-krobady-3d-mode/" target="_blank">Continuer à lire...</a>
-                    </div> <!-- end of class="col-lg-6"-->
-                </div> <!-- end of class row-->
-            </div> <!-- end of class container-->
-        </div><!-- end of style background-->
-
+                       <img src="images/starup.PNG" width="100%">
+                    </div>
+                    <div class="col-lg-6">
+                         <p><br><br><br><br><br>L’arrivée de la 3D dans les jeux vidéo remonte au début des années 1980. Encore balbutiante, la 3D offre alors déjà un univers interactif et immersif. Rapidement, les technologies de modélisation en 3D  vont permettre de rendre la texture des surfaces de plus en plus réalistes. Mais ce sont les années 2000 qui verront enfin la 3D connaître un “boom spectaculaire” avec l’avènement des nouvelles cartes graphiques ultra-performantes.</p>
+                            <a href="https://www.modeintextile.fr/start-story-krobady-3d-mode/" target="_blank">Continuer à lire...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
 
 
         <!-- Contact -->
