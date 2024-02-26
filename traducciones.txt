@@ -1,0 +1,25 @@
+// Traducciones
+
+
+// *****  MENU  ******
+Frances::::
+Accueil
+2D/3D
+Systemes
+Services
+Contact   
+
+Español:::::
+bienvenida
+2D/3D
+Sistemas
+Servicios
+Contactar
+
+Ingles::::
+Welcome
+2D/3D
+Systems
+Services
+Contact
+************************
